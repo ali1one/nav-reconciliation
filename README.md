@@ -1,4 +1,4 @@
-# NAV Reconciliation — Step 1: Data Ingestion & Coverage Check
+# NAV Reconciliation -- Step 1: Data Ingestion & Coverage Check
 
 ## Overview
 
