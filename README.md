@@ -2,7 +2,7 @@
 
 ## Overview
 
-This tool reads NAV (Net Asset Value) data from three independent sources — an internal system, a Fund Administrator, and a Custodian — merges them on ISIN, and produces a coverage matrix that flags every fund missing from any source.
+This tool reads NAV (Net Asset Value) data from three independent sources an internal system, a Fund Administrator, and a Custodian merges them on ISIN, and produces a coverage matrix that flags every fund missing from any source.
 
 It is designed to run daily before the break computation step, ensuring no fund is reconciled against incomplete data.
 
